@@ -1,0 +1,15 @@
+{
+  "name": "@wstest/proj1",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "jeffrson@github",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@wstest/lib1": "ssh://git@github.com:jeffrson/lib1.git"
+  }
+}
